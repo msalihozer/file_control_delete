@@ -15,20 +15,15 @@ Installation
 Ensure you have Python 3.x installed on your system.
 Install the path library:
 lua
-Copy code
 pip install path
 Configuration
 config.txt: Create this file and add filenames to it, each on a separate line.
 HEDEF: Replace this variable with the path to your target directory.
 Usage Example
 Suppose you have a config.txt file with the following filenames:
-
-Copy code
 file1.txt
 file2.txt
 And you select a text file named additional_files.txt containing:
-
-Copy code
 file3.txt
 file4.txt
 The script will combine these filenames and delete any files in the target directory that are not in the combined list.
