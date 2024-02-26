@@ -14,7 +14,6 @@ path library
 Installation
 Ensure you have Python 3.x installed on your system.
 Install the path library:
-lua
 pip install path
 Configuration
 config.txt: Create this file and add filenames to it, each on a separate line.
