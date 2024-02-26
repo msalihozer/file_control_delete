@@ -21,10 +21,10 @@ HEDEF: Replace this variable with the path to your target directory.
 Usage Example
 Suppose you have a config.txt file with the following filenames:
 file1.txt
-file2.txt
+
 And you select a text file named additional_files.txt containing:
 file3.txt
-file4.txt
+
 The script will combine these filenames and delete any files in the target directory that are not in the combined list.
 
 Important Notes
