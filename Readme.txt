@@ -1,0 +1,1 @@
+Bu uygulamada verilen .txt belgesindeki verileri kaynak dizinden silmek için kullanılmaktadır.
